@@ -1,1 +1,1 @@
-# Happy-Earth
+# How to make Earth happy and safe?
