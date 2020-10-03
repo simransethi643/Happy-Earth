@@ -4,5 +4,5 @@
 <h2> Solution</h2>
 <p> First buld a machine that collects water from the flood locations and then take it to the area where wild fire happens and store the machine at the site.</p>
 <picture>
- <jpg src="C:\Users\simra\OneDrive\Documents\Project\Water Tank.jpg" alt="Water Tank" style="width:auto;">
+ <img src="C:\Users\simra\OneDrive\Documents\Project\Water Tank.img" alt="Water Tank.jpg" style="width:auto;">
 </picture>
