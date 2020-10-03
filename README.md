@@ -7,5 +7,5 @@
  <img src="C:\Users\simra\OneDrive\Documents\Project\Water Tank.png" alt="Water Tank.png" style="width:auto;">
 </picture>
 <picture>
-C:\Users\simra\OneDrive\Documents\Project\Water Tank
+C:\Users\simra\OneDrive\Documents\Project\Water Tank.png
 </picture>
