@@ -5,5 +5,5 @@
 <p> First buld a machine that collects water from the flood locations and then take it to the area where wild fire happens and store the machine at the site.</p>
 C:\Users\simra\OneDrive\Documents\Project\Water Tank
 <picture>
-  <source media="(min-width:650px)" srcset="C:\Users\simra\OneDrive\Documents\Project\Water Tank">
+  <source media="(min-width:650px)" srcset="Water Tank">
 </picture>
