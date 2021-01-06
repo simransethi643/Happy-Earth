@@ -1,4 +1,4 @@
-# Happy-Earth
+Happy-Earth
 NASA Space Apps 2020 -VA
 
 # Problem and a reason
